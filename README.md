@@ -12,5 +12,7 @@ Here's an overview of its key features:
   -User-Friendly Interface: The web interface is designed for simplicity and ease of use, making it accessible to a wide range of users.
 
 ![Screenshot 2024-01-06 215618](https://github.com/jesicarana24/Banking-System/assets/146164537/92dcdaa7-872f-416d-a3a0-7696b6c7116e)
-![Screenshot 2024-01-06 215555](https://github.com/jesicarana24/Banking-System/assets/146164537/644435a3-681b-4fe9-acc0-704d85d8cf05)
+
 ![Screenshot 2024-01-06 215512](https://github.com/jesicarana24/Banking-System/assets/146164537/dede4c1a-dbe8-408b-8b05-eb19f432e3cf)
+
+![Screenshot 2024-01-06 215555](https://github.com/jesicarana24/Banking-System/assets/146164537/644435a3-681b-4fe9-acc0-704d85d8cf05)
