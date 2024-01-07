@@ -1,5 +1,6 @@
 The "Simple Banking System Using PHP and MySQL" is a web-based application designed to provide basic banking functionality for users. It allows users to sign up for accounts, log in, and perform common banking operations such as viewing account information, making transactions, and more.
 Here's an overview of its key features:
+
   -User Registration: Users can sign up for accounts by providing their personal information, including their name, Social Security Number (SSN), state, city, street number, zip code, apartment number, username, and password. The system generates a random Account Number and assigns a random Personal Banker's SSN from available employee SSNs.
   
   -User Authentication: Registered users can securely log in to their accounts using their username and password.
